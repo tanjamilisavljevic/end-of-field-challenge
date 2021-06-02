@@ -1,0 +1,23 @@
+body{
+    font-family: 'Noto Sans HK', sans-serif;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+}
+.picture1{
+    max-width: 60vw;
+}
+.buttoncontainer{
+    display: flex;
+}
+.brandingbutton{
+    background-color: #6a865e;
+    color: white;
+    border-radius: 16px;
+    font-size: 20px;
+    padding: 10px 24px;
+    margin-top: 3em;
+    margin-bottom: 1em;
+    margin-left: 2em;
+}
+
