@@ -7,6 +7,10 @@ body{
 .picture1{
     max-width: 60vw;
 }
+.content{
+    padding-left: 2em;
+    padding-right: 2em;
+}
 .buttoncontainer{
     display: flex;
     max-width: 60vw;
@@ -18,17 +22,14 @@ body{
     font-size: 20px;
     padding: 10px 24px;
     margin-top: 3em;
-    margin-left: 1em;
 }
 .description{
-    margin-left: 1em;
     font-size: 30px;
     font-weight: bolder;
     color: #2a2836;
     max-width: 60vw;
 }
 .info{
-    margin-left: 1em;
     color: #2a2836;
     max-width: 60vw;
 }
