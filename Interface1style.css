@@ -9,6 +9,7 @@ body{
 }
 .buttoncontainer{
     display: flex;
+    max-width: 60vw;
 }
 .brandingbutton{
     background-color: #6a865e;
@@ -17,7 +18,18 @@ body{
     font-size: 20px;
     padding: 10px 24px;
     margin-top: 3em;
-    margin-bottom: 1em;
-    margin-left: 2em;
+    margin-left: 1em;
+}
+.description{
+    margin-left: 1em;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #2a2836;
+    max-width: 60vw;
+}
+.info{
+    margin-left: 1em;
+    color: #2a2836;
+    max-width: 60vw;
 }
 
