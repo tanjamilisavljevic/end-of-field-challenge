@@ -1,4 +1,4 @@
-body{
+body {
     font-family: 'Lato', sans-serif;
     font-family: 'Noto Sans HK', sans-serif;
     display: flex;
@@ -6,25 +6,25 @@ body{
     align-content: center;
 }
 
-.title{
+.title {
     max-width: 60vw;
     font-size: 150px;
     color: #242625;
-    margin:0%;
+    margin: 0%;
 }
 
-.info{
+.info {
     display: flex;
     flex-flow: row wrap;
     max-width: 60vw;
     justify-content: space-between;
 }
 
-.author{
+.author {
     font-weight: bold;
 }
 
-.button1{
+.button1 {
     background-color: white;
     color: #242625;
     border: 2px solid #242625;
@@ -35,29 +35,29 @@ body{
     margin-top: 1em;
 }
 
-
-@media only screen and (max-width: 768px ){
-    body{
+@media only screen and (max-width: 768px) {
+    body {
         display: flex;
         flex-flow: column;
     }
-    .title{
-        font-size: 100px;
+    .title {
+        font-size: 90px;
     }
-    .button1{
+    .button1 {
         font-size: 15px;
         padding: 7px 15px;
     }
 }
-@media only screen and (max-width: 480px ){
-    body{
+
+@media only screen and (max-width: 480px) {
+    body {
         display: flex;
         flex-flow: column;
     }
-    .title{
+    .title {
         font-size: 50px;
     }
-    .button1{
+    .button1 {
         font-size: 10px;
         padding: 5px 12px;
     }
