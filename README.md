@@ -2,10 +2,10 @@
 This project includes 3 interfaces, 2 simple ones (no15 & no12) and a complex one(no9).
 
 
-Interface1: file:///C:/Users/roelg/Desktop/tanja/code/end-of-field-challenge/Interface1.html
+Interface1: https://tanjamilisavljevic.github.io/end-of-field-challenge/Interface1.html
 
 
-Interface2: file:///C:/Users/roelg/Desktop/tanja/code/end-of-field-challenge/Interface2.html
+Interface2: https://tanjamilisavljevic.github.io/end-of-field-challenge/Interface2.html
 
 
-Interface3: file:///C:/Users/roelg/Desktop/tanja/code/end-of-field-challenge/Interface3.html
+Interface3: https://tanjamilisavljevic.github.io/end-of-field-challenge/Interface3.html
